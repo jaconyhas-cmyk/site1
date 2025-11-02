@@ -164,7 +164,7 @@ const PromoBanner: React.FC = () => {
             px: { xs: 1, sm: 2 },
           }}
         >
-          ALL CONTENT FOR ONLY $99
+          ALL CONTENT FOR ONLY $85
         </Typography>
 
         <Typography
